@@ -25,7 +25,7 @@ Swift 3:
 
         return newImage!
     }
-    ```
+```
 
 Swift 4:
 --------------
@@ -52,7 +52,7 @@ Swift 4:
 
         return newImage!
     }
-    ```
+```
 
 Swift 5:
 --------------
@@ -79,4 +79,4 @@ Swift 5:
 
         return newImage!
     }
-    ```
+```
